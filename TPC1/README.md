@@ -1,8 +1,8 @@
 # TPC1 
 
-## Blockly Games: Maze
+## Blockly Games: Turtle
 
 **Autor(a):** Maria Silvares, A114934
 
-**Resumo:** Neste trabalho foi utilizado o Blockly Games, nomeadamente o jogo...
+**Resumo:** Neste trabalho foi utilizado o Blockly Games, nomeadamente o jogo Turtle.
 
