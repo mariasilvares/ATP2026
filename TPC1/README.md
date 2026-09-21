@@ -1,4 +1,4 @@
-# TPC1: Blockly Games: Turtle
+# TPC1: Blockly Games - Turtle
 
 **Autor(a):** 
 - Maria Silvares
