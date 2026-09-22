@@ -4,6 +4,8 @@
 - Maria Silvares
 - A114934
 
-**Resumo:** Neste trabalho foi utilizada a plataforma Blockly Games para aplicar conceitos básicos de programação através de blocos. O primeiro exercício consistiu na resolução do nível 10 do Blockly Games – Maze. O objetivo foi programar o percurso da personagem desde o ponto inicial até ao ponto de chegada, utilizando diferentes instruções de movimento e estruturas de programação. O segundo exercício consistiu na utilização da função Turtle para reproduzir o desenho de um barco à vela apresentado no enunciado. Para isso, foram utilizadas instruções de movimento e rotação, definindo as diferentes direções e distâncias necessárias para construir o desenho.
+**Resumo:** Neste trabalho foi utilizada a plataforma Blockly Games para aplicar conceitos básicos de programação através de blocos, nomeadamente do Maze e do Turtle. O primeiro exercício consistiu na resolução do nível 10 do Maze. O objetivo foi programar o percurso da personagem desde o ponto inicial até ao ponto de chegada, utilizando diferentes instruções de movimento e estruturas de programação. O segundo exercício consistiu na utilização do Turtle para reproduzir o desenho de um barco à vela apresentado no enunciado. Para isso, foram utilizadas instruções de movimento e rotação, definindo as diferentes direções e distâncias necessárias para construir o desenho.
 
 **Resultados:**
+- Nível 10 do Maze - Blockly Games:
+- Desenho do barco no Turtle - Blockly Games:
